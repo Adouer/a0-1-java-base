@@ -1,4 +1,4 @@
-package com.learn.a8_annotation;
+package com.learn.a08_annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

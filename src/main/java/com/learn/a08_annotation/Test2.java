@@ -1,6 +1,4 @@
-package com.learn.a8_annotation;
-
-import java.util.Date;
+package com.learn.a08_annotation;
 
 /**
  * 内置注解
